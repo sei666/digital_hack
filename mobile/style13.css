@@ -1,0 +1,258 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+:root {
+	--web-view-ids: iPhone_6_7_8_Plus___13;
+}
+#iPhone_6_7_8_Plus___13 * {
+	margin: 0;
+	padding: 0;
+}
+#iPhone_6_7_8_Plus___13 {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 414px;
+	height: 736px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: iPhone 6/7/8 Plus – 13;
+	--web-view-id: iPhone_6_7_8_Plus___13;
+	--web-enable-deep-linking: true;
+}
+#ID1 {
+	fill: url(#ID1_A12_Rectangle_189_pattern);
+}
+.ID1 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 736px;
+	left: 0px;
+	top: 0px;
+}
+#button {
+	fill: url(#button_A12_Rectangle_191_pattern);
+}
+.button {
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	height: 208px;
+	left: 103px;
+	top: 306px;
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 712px;
+	left: 0px;
+	top: 24px;
+}
+#Rectangle_2 {
+	fill: rgba(166,38,44,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 50px;
+	left: 0px;
+	top: 24px;
+}
+#____________ {
+	position: absolute;
+	left: 127px;
+	top: 33px;
+	overflow: visible;
+	width: 162px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_6 {
+	fill: rgba(166,38,44,1);
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 50px;
+	left: 0px;
+	top: 686px;
+}
+#map {
+	fill: url(#map_A12_Rectangle_196_pattern);
+}
+.map {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 304px;
+	top: 696px;
+}
+#home {
+	fill: url(#home_A12_Rectangle_198_pattern);
+}
+.home {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 80px;
+	top: 696px;
+}
+#sms {
+	fill: url(#sms_A12_Rectangle_200_pattern);
+}
+.sms {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 192px;
+	top: 696px;
+}
+#ID3594A94E_7563_4169_96E7_BE60 {
+	fill: url(#ID3594A94E_7563_4169_96E7_BE60_A12_Rectangle_202_pattern);
+}
+.ID3594A94E_7563_4169_96E7_BE60 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 736px;
+	left: 0px;
+	top: 0px;
+}
+#header {
+	fill: url(#header_A12_Rectangle_204_pattern);
+}
+.header {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_15 {
+	fill: rgba(166,38,44,1);
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 295px;
+	left: 0px;
+	top: 24px;
+}
+#f640488567e293a4e88c4f262dedff {
+	opacity: 0.22;
+	fill: url(#f640488567e293a4e88c4f262dedff_A12_Rectangle_207_pattern);
+}
+.f640488567e293a4e88c4f262dedff {
+	position: absolute;
+	overflow: visible;
+	width: 185px;
+	height: 209px;
+	left: 115px;
+	top: 75px;
+}
+#___________ {
+	position: absolute;
+	left: 145px;
+	top: 293px;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#HELP_ME {
+	position: absolute;
+	left: 69px;
+	top: 33px;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#ID4 {
+	fill: url(#ID4_A12_Rectangle_209_pattern);
+}
+.ID4 {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 39px;
+	left: 31px;
+	top: 37px;
+}
+#Rectangle_16 {
+	fill: rgba(166,38,44,1);
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 12px;
+	left: 31px;
+	top: 69px;
+}
+#Rectangle_17 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	height: 33px;
+	left: 27px;
+	top: 488px;
+}
+#iPhone_6_7_8_Plus___13_3x {
+	fill: url(#iPhone_6_7_8_Plus___13_3x_A12_Rectangle_213_pattern);
+}
+.iPhone_6_7_8_Plus___13_3x {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 736px;
+	left: 0px;
+	top: 0px;
+}
+#______ {
+	position: absolute;
+	left: 80px;
+	top: 556px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 21px;
+	color: rgba(206,206,211,1);
+}

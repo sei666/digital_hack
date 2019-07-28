@@ -1,0 +1,364 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+:root {
+	--web-view-ids: Web_1920___1;
+}
+#Web_1920___1 * {
+	margin: 0;
+	padding: 0;
+}
+#Web_1920___1 {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_1 {
+	fill: rgba(166,38,44,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+}
+#unnamed {
+	fill: url(#unnamed_A0_Rectangle_3_pattern);
+}
+.unnamed {
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 80px;
+	left: 51px;
+	top: 10px;
+}
+#HELP_ME {
+	position: absolute;
+	left: 148px;
+	top: 26px;
+	overflow: visible;
+	width: 146px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 37px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgb(112, 112, 112);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 542px;
+	height: 980px;
+	left: 0px;
+	top: 100px;
+}
+#zxc {
+	fill: url(#zxc_A0_Rectangle_6_pattern);
+}
+.zxc {
+	position: absolute;
+	overflow: visible;
+	width: 1378px;
+	height: 1277px;
+	left: 542px;
+	top: 100px;
+}
+#Group_1 {
+	position: absolute;
+	width: 400px;
+	height: 80px;
+	left: 27px;
+	top: 138px;
+	overflow: visible;
+}
+#chel {
+	fill: url(#chel_A0_Rectangle_8_pattern);
+}
+.chel {
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+}
+#_____________________ {
+	position: absolute;
+	left: 100px;
+	top: 25px;
+	overflow: visible;
+	width: 301px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 407px;
+	height: 80px;
+	left: 27px;
+	top: 238px;
+	overflow: visible;
+}
+#chel_A0_Rectangle_9 {
+	fill: url(#chel_A0_Rectangle_10_pattern);
+}
+.chel_A0_Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+}
+#________________________ {
+	position: absolute;
+	left: 100px;
+	top: 25px;
+	overflow: visible;
+	width: 308px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Group_3 {
+	position: absolute;
+	width: 408px;
+	height: 80px;
+	left: 27px;
+	top: 338px;
+	overflow: visible;
+}
+#chel_A0_Rectangle_11 {
+	fill: url(#chel_A0_Rectangle_12_pattern);
+}
+.chel_A0_Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	height: 80px;
+	left: 0px;
+	top: 0px;
+}
+#_______________________ {
+	position: absolute;
+	left: 100px;
+	top: 25px;
+	overflow: visible;
+	width: 309px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#___ {
+	fill: url(#____A0_Rectangle_14_pattern);
+}
+.___ {
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	height: 57.333px;
+	left: 462px;
+	top: 149px;
+}
+#skorme {
+	fill: url(#skorme_A0_Rectangle_16_pattern);
+}
+.skorme {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 33px;
+	left: 1018px;
+	top: 515px;
+}
+#skorme_A0_Rectangle_17 {
+	fill: url(#skorme_A0_Rectangle_18_pattern);
+}
+.skorme_A0_Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 33px;
+	left: 1171px;
+	top: 755px;
+}
+#skorme_A0_Rectangle_19 {
+	fill: url(#skorme_A0_Rectangle_20_pattern);
+}
+.skorme_A0_Rectangle_19 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 33px;
+	left: 770px;
+	top: 763px;
+}
+#skorme_A0_Rectangle_21 {
+	fill: url(#skorme_A0_Rectangle_22_pattern);
+}
+.skorme_A0_Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 33px;
+	left: 781px;
+	top: 378px;
+}
+#skorme_A0_Rectangle_23 {
+	fill: url(#skorme_A0_Rectangle_24_pattern);
+}
+.skorme_A0_Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 33px;
+	left: 1278px;
+	top: 402px;
+}
+#skorme_A0_Rectangle_25 {
+	fill: url(#skorme_A0_Rectangle_26_pattern);
+}
+.skorme_A0_Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 33px;
+	left: 1495px;
+	top: 645px;
+}
+#skorme_A0_Rectangle_27 {
+	fill: url(#skorme_A0_Rectangle_28_pattern);
+}
+.skorme_A0_Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 33px;
+	left: 1261px;
+	top: 574px;
+}
+#skorme_A0_Rectangle_29 {
+	fill: url(#skorme_A0_Rectangle_30_pattern);
+}
+.skorme_A0_Rectangle_29 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 33px;
+	left: 883px;
+	top: 670px;
+}
+#skorme_A0_Rectangle_31 {
+	fill: url(#skorme_A0_Rectangle_32_pattern);
+}
+.skorme_A0_Rectangle_31 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 33px;
+	left: 931px;
+	top: 133px;
+}
+#skorme_A0_Rectangle_33 {
+	fill: url(#skorme_A0_Rectangle_34_pattern);
+}
+.skorme_A0_Rectangle_33 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 33px;
+	left: 1698px;
+	top: 935px;
+}
+#skorme_A0_Rectangle_35 {
+	fill: url(#skorme_A0_Rectangle_36_pattern);
+}
+.skorme_A0_Rectangle_35 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 33px;
+	left: 1791px;
+	top: 507px;
+}
+#skorme_A0_Rectangle_37 {
+	fill: url(#skorme_A0_Rectangle_38_pattern);
+}
+.skorme_A0_Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 33px;
+	left: 542px;
+	top: 772px;
+}
+#skorme_A0_Rectangle_39 {
+	fill: url(#skorme_A0_Rectangle_40_pattern);
+}
+.skorme_A0_Rectangle_39 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 33px;
+	left: 1446px;
+	top: 173px;
+}
+#skorme_A0_Rectangle_41 {
+	fill: url(#skorme_A0_Rectangle_42_pattern);
+}
+.skorme_A0_Rectangle_41 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 33px;
+	left: 735px;
+	top: 1017px;
+}
+#skorme_A0_Rectangle_43 {
+	fill: url(#skorme_A0_Rectangle_44_pattern);
+}
+.skorme_A0_Rectangle_43 {
+	position: absolute;
+	overflow: visible;
+	width: 35px;
+	height: 33px;
+	left: 1411px;
+	top: 984px;
+}

@@ -1,0 +1,47 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+:root {
+	--web-view-ids: iPhone_6_7_8_Plus___1;
+}
+#iPhone_6_7_8_Plus___1 * {
+	margin: 0;
+	padding: 0;
+}
+#iPhone_6_7_8_Plus___1 {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 414px;
+	height: 736px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: iPhone 6/7/8 Plus – 1;
+	--web-view-id: iPhone_6_7_8_Plus___1;
+	--web-enable-deep-linking: true;
+}
+#ID1 {
+	fill: url(#ID1_A0_Rectangle_2_pattern);
+}
+.ID1 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 736px;
+	left: 0px;
+	top: 0px;
+}
+#button {
+	fill: url(#button_A0_Rectangle_4_pattern);
+}
+.button {
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	height: 208px;
+	left: 103px;
+	top: 306px;
+}

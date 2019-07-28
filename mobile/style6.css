@@ -1,0 +1,262 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+:root {
+	--web-view-ids: iPhone_6_7_8_Plus___6;
+}
+#iPhone_6_7_8_Plus___6 * {
+	margin: 0;
+	padding: 0;
+}
+#iPhone_6_7_8_Plus___6 {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 414px;
+	height: 736px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: iPhone 6/7/8 Plus – 6;
+	--web-view-id: iPhone_6_7_8_Plus___6;
+	--web-enable-deep-linking: true;
+}
+#ID1 {
+	fill: url(#ID1_A5_Rectangle_78_pattern);
+}
+.ID1 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 736px;
+	left: 0px;
+	top: 0px;
+}
+#button {
+	fill: url(#button_A5_Rectangle_80_pattern);
+}
+.button {
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	height: 208px;
+	left: 103px;
+	top: 306px;
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 712px;
+	left: 0px;
+	top: 24px;
+}
+#Rectangle_2 {
+	fill: rgba(166,38,44,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 50px;
+	left: 0px;
+	top: 24px;
+}
+#header {
+	fill: url(#header_A5_Rectangle_84_pattern);
+}
+.header {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+#HELP_ME {
+	position: absolute;
+	left: 163px;
+	top: 33px;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_3 {
+	fill: rgba(166,38,44,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 335px;
+	height: 212px;
+	left: 40px;
+	top: 150px;
+}
+#______________________ {
+	position: absolute;
+	left: 75px;
+	top: 162px;
+	overflow: visible;
+	width: 265px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#ID4 {
+	position: absolute;
+	left: 185px;
+	top: 253px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
+#Ellipse_1 {
+	fill: rgba(112,112,112,1);
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	height: 180px;
+	left: 122px;
+	top: 509px;
+}
+#Path_1 {
+	fill: transparent;
+	stroke: rgb(112, 112, 112);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 599px;
+	left: 212px;
+	width: 0px;
+	height: 0px;
+}
+#Subtraction_2 {
+	fill: rgba(166,38,44,1);
+}
+.Subtraction_2 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 646.63px;
+	left: 135.623px;
+	width: 152.754px;
+	height: 42.369px;
+}
+#______ {
+	position: absolute;
+	left: 160px;
+	top: 578px;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#back {
+	fill: url(#back_A5_Rectangle_87_pattern);
+}
+.back {
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 17px;
+	top: 29px;
+}
+#Group_6 {
+	position: absolute;
+	width: 28px;
+	height: 55px;
+	left: 194px;
+	top: 83px;
+	overflow: visible;
+}
+#rec {
+	fill: url(#rec_A5_Rectangle_89_pattern);
+}
+.rec {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 35.556px;
+	left: 4px;
+	top: 0px;
+}
+#ID00_03 {
+	position: absolute;
+	left: 0px;
+	top: 39px;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Group_12 {
+	position: absolute;
+	width: 107px;
+	height: 107px;
+	left: 154px;
+	top: 382px;
+	overflow: visible;
+}
+#Ellipse_4 {
+	fill: rgba(166,38,44,1);
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	height: 107px;
+	left: 0px;
+	top: 0px;
+}
+#piple {
+	fill: url(#piple_A5_Rectangle_91_pattern);
+}
+.piple {
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 33px;
+	top: 34px;
+}

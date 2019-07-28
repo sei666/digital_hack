@@ -1,0 +1,194 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+:root {
+	--web-view-ids: iPhone_6_7_8_Plus___3;
+}
+#iPhone_6_7_8_Plus___3 * {
+	margin: 0;
+	padding: 0;
+}
+#iPhone_6_7_8_Plus___3 {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 414px;
+	height: 736px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: iPhone 6/7/8 Plus – 3;
+	--web-view-id: iPhone_6_7_8_Plus___3;
+	--web-enable-deep-linking: true;
+}
+#ID1 {
+	fill: url(#ID1_A2_Rectangle_36_pattern);
+}
+.ID1 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 736px;
+	left: 0px;
+	top: 0px;
+}
+#button {
+	fill: url(#button_A2_Rectangle_38_pattern);
+}
+.button {
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	height: 208px;
+	left: 103px;
+	top: 306px;
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 712px;
+	left: 0px;
+	top: 24px;
+}
+#Rectangle_2 {
+	fill: rgba(166,38,44,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 50px;
+	left: 0px;
+	top: 24px;
+}
+#header {
+	fill: url(#header_A2_Rectangle_42_pattern);
+}
+.header {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+#____________HELP_ME {
+	position: absolute;
+	left: 147px;
+	top: 41px;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(255,255,255,1);
+}
+#ID112 {
+	position: absolute;
+	left: 166px;
+	top: 80px;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 51px;
+	color: rgba(166,38,44,1);
+}
+#ID00_11 {
+	position: absolute;
+	left: 186px;
+	top: 148px;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(166,38,44,1);
+}
+#Rectangle_4 {
+	fill: rgba(66,148,66,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 207px;
+	height: 535px;
+	left: 207px;
+	top: 201px;
+}
+#Rectangle_5 {
+	fill: rgba(166,38,44,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 207px;
+	height: 535px;
+	left: 0px;
+	top: 201px;
+}
+#___ {
+	position: absolute;
+	left: 16px;
+	top: 410px;
+	overflow: visible;
+	width: 175px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(255,255,255,1);
+}
+#__ {
+	position: absolute;
+	left: 243px;
+	top: 410px;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(255,255,255,1);
+}
+#back {
+	fill: url(#back_A2_Rectangle_46_pattern);
+}
+.back {
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 40px;
+	left: 17px;
+	top: 29px;
+}
+#button_A2_Rectangle_47 {
+	fill: url(#button_A2_Rectangle_48_pattern);
+}
+.button_A2_Rectangle_47 {
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	height: 17px;
+	left: 125px;
+	top: 41px;
+}

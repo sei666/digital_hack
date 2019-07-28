@@ -1,0 +1,181 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+:root {
+	--web-view-ids: iPhone_6_7_8_Plus___11;
+}
+#iPhone_6_7_8_Plus___11 * {
+	margin: 0;
+	padding: 0;
+}
+#iPhone_6_7_8_Plus___11 {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 414px;
+	height: 736px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: iPhone 6/7/8 Plus – 11;
+	--web-view-id: iPhone_6_7_8_Plus___11;
+	--web-enable-deep-linking: true;
+}
+#ID1 {
+	fill: url(#ID1_A10_Rectangle_146_pattern);
+}
+.ID1 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 736px;
+	left: 0px;
+	top: 0px;
+}
+#button {
+	fill: url(#button_A10_Rectangle_148_pattern);
+}
+.button {
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	height: 208px;
+	left: 103px;
+	top: 306px;
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 712px;
+	left: 0px;
+	top: 24px;
+}
+#Rectangle_2 {
+	fill: rgba(166,38,44,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 50px;
+	left: 0px;
+	top: 24px;
+}
+#header {
+	fill: url(#header_A10_Rectangle_152_pattern);
+}
+.header {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+#_____ {
+	position: absolute;
+	left: 175px;
+	top: 33px;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#E7916649_8E7D_4CA3_B49B_D8CB10 {
+	fill: url(#E7916649_8E7D_4CA3_B49B_D8CB10_A10_Rectangle_154_pattern);
+}
+.E7916649_8E7D_4CA3_B49B_D8CB10 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 736px;
+	left: 0px;
+	top: 74px;
+}
+#Rectangle_6 {
+	fill: rgba(166,38,44,1);
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 50px;
+	left: 0px;
+	top: 686px;
+}
+#map {
+	fill: url(#map_A10_Rectangle_157_pattern);
+}
+.map {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 304px;
+	top: 696px;
+}
+#home {
+	fill: url(#home_A10_Rectangle_159_pattern);
+}
+.home {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 80px;
+	top: 696px;
+}
+#Rectangle_11 {
+	filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+	fill: rgba(255,255,255,1);
+	stroke: rgb(112, 112, 112);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 392px;
+	height: 76px;
+	left: 19px;
+	top: 98px;
+}
+#_________________________2____ {
+	position: absolute;
+	left: 45px;
+	top: 115px;
+	overflow: visible;
+	width: 330px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#sms {
+	fill: url(#sms_A10_Rectangle_162_pattern);
+}
+.sms {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 192px;
+	top: 696px;
+}
